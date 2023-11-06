@@ -1,0 +1,9 @@
+# Required information
+name: AuranElemental
+version: 0.1.1
+main: mcyoinet.github.io
+
+#Extra
+description: A paper plugin made to provide basic features and tools for users and server administrators.
+author: McYoinet
+website: https://github.com/McYoinet/AuranElemental 
